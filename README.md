@@ -44,3 +44,9 @@ original trypsin tree with Bflo
 
 ##### orig_tryp_2.tre
 original trypsin_2 tree with Bflo
+
+### 03-DATASOURCES
+All data sources are in 03-DATASOURCES/README.md
+
+### 04-COMMANDS
+All commands are in 04-COMMANDS/README.md
