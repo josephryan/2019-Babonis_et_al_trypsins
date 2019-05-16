@@ -1,4 +1,4 @@
-# Alignments associated with Trypsin study by Babobonis et al.
+# Alignments associated with Trypsin study by Babonis et al.
 
 ### MCB_tryp.aln.fa
 alignment for trypsin tree with Mlei, Aque, Tad, Cnidarians, and Bilaterians
